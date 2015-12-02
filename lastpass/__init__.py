@@ -1,0 +1,1 @@
+from lastpass import Account
